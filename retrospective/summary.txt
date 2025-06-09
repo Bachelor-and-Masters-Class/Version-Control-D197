@@ -1,0 +1,7 @@
+Merge Conflict Resolution (Part E1):
+A merge conflict occurred in the README.md file because both the Working and Test branches modified the same section. I resolved it by manually editing the file to include both changes: the Git version number and my student ID. Then, I staged, committed, and pushed the resolved file.
+
+Three Changes Made (Part C1):
+1. index.html – Created a basic homepage with a title and welcome message to introduce users to the website.
+2. about.html – Added an about page describing the company’s mission and what services it offers.
+3. contact.html – Designed a contact form that includes fields for email and message to allow users to get in touch.
