@@ -5,3 +5,5 @@ Three Changes Made (Part C1):
 1. index.html – Created a basic homepage with a title and welcome message to introduce users to the website.
 2. about.html – Added an about page describing the company’s mission and what services it offers.
 3. contact.html – Designed a contact form that includes fields for email and message to allow users to get in touch.
+
+
