@@ -1,8 +1,8 @@
 **Overview**
 
-This repository contains my completed submission for the WGU course **D197 – Version Control**.
+This repository contains my completed submission for the WGU course **D197: Version Control**.
 
-The project uses a multi-page marketing website as the working codebase for demonstrating professional Git workflow. The web project itself is the vehicle; the assessed work is the version control practice applied to it — branching, isolated feature development, merging, conflict resolution, and a clean, readable commit history.
+The project uses a multi-page marketing website as the working codebase for demonstrating professional Git workflow. The web project itself is the vehicle; the assessed work is the version control practice applied to it: branching, isolated feature development, merging, conflict resolution, and a clean, readable commit history.
 
 **Scenario**
 
@@ -75,16 +75,16 @@ The site is intentionally straightforward. Its purpose is to provide realistic, 
 
 **Repository Contents**
 
--`index.html` – Home page
+-`index.html`: Home page
 
--`about.html` – About page
+-`about.html`: About page
 
--`customers.html` – Customers page
+-`customers.html`: Customers page
 
--`contact.html` – Contact page
+-`contact.html`: Contact page
 
--`css/style.css` – Shared stylesheet
+-`css/style.css`: Shared stylesheet
 
--`js/` – Client-side scripts
+-`js/`: Client-side scripts
 
--`images/` – Site image assets
+-`images/`: Site image assets
